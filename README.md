@@ -1,14 +1,14 @@
-# IronVim
+# RedVim
 
-A low-level development environment for Neovim.
+A Neovim configuration for the mentally unstable
 
-IronVim is an opinionated Neovim distribution focused on:
+RedVim is an opinionated Neovim distribution focused on:
 
 - Assembly
 - Systems programming
 - Firmware development
-- Binary analysis
-- Debugging
+- Binary exploitation
+- Reverse engineering
 
 ## Status
 
